@@ -6,9 +6,9 @@ In response to the COVID-19 pandemic, nearly 6 million public school children tr
 Currently, AR/VR products for educational learning rely on buying products to scan an AR code to see models or are placed behind expensive paywalls or services. In a crisis that has impacted students and their families emotionally, financially, and mentally, we created an accessible tool that allows students to explore and learn about science topics in a fun, interactive way. As a free product, this application is easily deployed to smartphones for use and contains an easy to navigate interface with large buttons to address the needs of younger children. Furthermore, we are not only promoting the learning of science concepts but also promote wellness through interactive topics on meditation through breathing exercises, fitness, and wellness. <img align="left" src="images/LeARning Reimagined.png">
 
 Topic Areas:
-* COVID-19: 
-* Human Body: 
-* Wellness: 
+* COVID-19: Spike Proteins, Healthy Lungs,  Lungs with COVID
+* Human Body: Skeletal System, Digestive System, Respiratory System, Eyeball, and Heart
+* Wellness: Dog, Cat, Arachnophobia
 
 # How to Use 
 
